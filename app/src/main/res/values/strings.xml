@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather Logger</string>
+    <string name="temperature">Temperature:</string>
+    <string name="date">Date:</string>
+    <string name="more_details">More Details</string>
+    <string name="no_internet">No internet connection.Please connect to network and try again!</string>
+    <string name="error">Something went wrong.Please try again</string>
+    <string name="loading">Loading..</string>
+    <string name="details">Details</string>
+</resources>
